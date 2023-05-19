@@ -1,0 +1,13 @@
+D:\HNURE\C#.Net\Lab7Anikaev\Lab7Anikaev\obj\Debug\Lab7Anikaev.csproj.AssemblyReference.cache
+D:\HNURE\C#.Net\Lab7Anikaev\Lab7Anikaev\obj\Debug\Lab7Anikaev.csproj.SuggestedBindingRedirects.cache
+D:\HNURE\C#.Net\Lab7Anikaev\Lab7Anikaev\obj\Debug\Lab7Anikaev.Form1.resources
+D:\HNURE\C#.Net\Lab7Anikaev\Lab7Anikaev\obj\Debug\Lab7Anikaev.Properties.Resources.resources
+D:\HNURE\C#.Net\Lab7Anikaev\Lab7Anikaev\obj\Debug\Lab7Anikaev.csproj.GenerateResource.cache
+D:\HNURE\C#.Net\Lab7Anikaev\Lab7Anikaev\obj\Debug\Lab7Anikaev.csproj.CoreCompileInputs.cache
+D:\HNURE\C#.Net\Lab7Anikaev\Lab7Anikaev\bin\Debug\Database1.mdf
+D:\HNURE\C#.Net\Lab7Anikaev\Lab7Anikaev\bin\Debug\Database1_log.ldf
+D:\HNURE\C#.Net\Lab7Anikaev\Lab7Anikaev\bin\Debug\Lab7Anikaev.exe.config
+D:\HNURE\C#.Net\Lab7Anikaev\Lab7Anikaev\bin\Debug\Lab7Anikaev.exe
+D:\HNURE\C#.Net\Lab7Anikaev\Lab7Anikaev\bin\Debug\Lab7Anikaev.pdb
+D:\HNURE\C#.Net\Lab7Anikaev\Lab7Anikaev\obj\Debug\Lab7Anikaev.exe
+D:\HNURE\C#.Net\Lab7Anikaev\Lab7Anikaev\obj\Debug\Lab7Anikaev.pdb
